@@ -1,5 +1,4 @@
-[
-  {
+{
     "id": "1",
     "img": "/img/RebelKanga.gif",
     "title": "Rebel Kangas",
@@ -33,40 +32,4 @@
         "icon": "fab fa-discord"
       }
     ]
-  },
-  {
-    "id": "4",
-    "img": "/img/RebelKanga.gif",
-    "title": "Rebel Kangas",
-    "reg_date": "2022-12-09",
-    "raise": "222.5k",
-    "val": "$13500",
-    "mecha": "2800 SUPPLY",
-    "busd": "89 CRO",
-    "action": "/Pesky-Kanga",
-    "link": "Pesky-Kanga",
-    "external_link": "/pesky-kanga",
-    "social": [
-      {
-        "id": "1",
-        "link": "https://twitter.com/RooFinance",
-        "icon": "fab fa-twitter"
-      },
-      {
-        "id": "2",
-        "link": "https://t.me/Roo_finance",
-        "icon": "fab fa-telegram"
-      },
-      {
-        "id": "3",
-        "link": "https://www.facebook.com/profile.php?id=100087503031319",
-        "icon": "fab fa-facebook"
-      },
-      {
-        "id": "4",
-        "link": "https://discord.gg/4u5muHcdaJ",
-        "icon": "fab fa-discord"
-      }
-    ]
   }
-]
