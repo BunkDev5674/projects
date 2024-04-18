@@ -1,0 +1,60 @@
+{
+    id: '1',
+    img: '/img/RebelKanga.gif',
+    title: 'Rebel Kangas',
+    reg_date: '2022-12-09',
+    raise: '222.5k',
+    val: '$13500',
+    mecha: '2800 SUPPLY',
+    busd: '89 CRO',
+    action: '/Pesky-Kanga',
+    link: 'Pesky-Kanga',
+    external_link: '/pesky-kanga',
+    social: [
+      {
+        id: '1',
+        link: 'https://twitter.com/RooFinance',
+        icon: 'fab fa-twitter'
+      },
+      {
+        id: '2',
+        link: 'https://t.me/Roo_finance',
+        icon: 'fab fa-telegram'
+      },
+      {
+        id: '3',
+        link: 'https://www.facebook.com/profile.php?id=100087503031319',
+        icon: 'fab fa-facebook'
+      },
+      {
+        id: '4',
+        link: 'https://discord.gg/4u5muHcdaJ',
+        icon: 'fab fa-discord'
+      }
+    ]
+  },
+  {
+    id: '4',
+    img: '/img/KeyGif.gif',
+    title: 'Skeleton Keys',
+    reg_date: '2023-04-28',
+    raise: '2,566,410k',
+    val: '$128,320',
+    mecha: '7777 SUPPLY',
+    busd: '330 Cro',
+    action: 'Lady-apes',
+    link: 'Lady-Apes',
+    external_link: 'https://dex.phenix.finance/drop/cc-skeleton-keys',
+    social: [
+      {
+        id: '7',
+        link: 'https://twitter.com/ClashCityTV',
+        icon: 'fab fa-twitter'
+      },
+      {
+        id: '8',
+        link: 'https://discord.gg/clash-city-923262570540974110',
+        icon: 'fab fa-discord'
+      }
+    ]
+  }
